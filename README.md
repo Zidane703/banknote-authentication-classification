@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Banknote Authentication Classification using Orange Data Mining
 
-![Orange Canvas Pipeline](Screenshot 2026-07-04 220103.png)
+![Orange Canvas Pipeline](Screenshot%202026-07-04%20220103.png)
 
 ## 📌 Project Overview
 This project focuses on building an accurate **Machine Learning classification pipeline** to detect whether a digital banknote image is **Genuine (`0`)** or **Counterfeit (`1`)**. Using **Orange Data Mining**, multiple classification algorithms were trained, evaluated, and benchmarked without writing complex boilerplate code, demonstrating visual and interactive workflow analysis.
